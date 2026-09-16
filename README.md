@@ -1,5 +1,3 @@
-# vernacular-iot-voice-alert-node
-
 # Vernacular-Language IoT Voice Alert Node
 
 An IoT edge device that listens for MQTT/HTTP triggers and broadcasts voice alerts in local/vernacular languages (e.g., Hindi, Tamil, Spanish, Swahili). Ideal for agricultural warnings, industrial safety, and rural healthcare systems.
