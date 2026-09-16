@@ -12,7 +12,7 @@ An IoT edge device that listens for MQTT/HTTP triggers and broadcasts voice aler
 ## 📦 Bill of Materials (BOM)
 | Component | Purpose | Quantity | Est. Cost (USD) |
 |---|---|---|---|
-| [ESP32 DevKit V1](url) | Main Wi-Fi/MQTT controller | 1 | $6.00 |
+| [ESP32 DevKit V1](https://robocraze.com/products/esp32-development-board) | Main Wi-Fi/MQTT controller | 1 | $6.00 |
 | MAX98357A I2S Audio Amplifier | Drives the speaker from ESP32 I2S pins | 1 | $2.50 |
 | 3W 4Ω Mini Speaker | Audio output | 1 | $1.50 |
 | 18650 Battery + Holder | Portable power supply (optional) | 1 | $3.00 |
