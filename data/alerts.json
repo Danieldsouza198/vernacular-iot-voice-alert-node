@@ -1,0 +1,17 @@
+{
+  "flood_hi": {
+    "lang": "hi",
+    "text": "खेत में पानी आ गया है, कृपया सावधान रहें",
+    "file": "flood_hi.mp3"
+  },
+  "fire_ta": {
+    "lang": "ta",
+    "text": "தீ விபத்து எச்சரிக்கை, உடனடியாக வெளியேறுங்கள்",
+    "file": "fire_ta.mp3"
+  },
+  "machine_fault_en": {
+    "lang": "en",
+    "text": "Machine failure, shut down immediately",
+    "file": "machine_fault_en.mp3"
+  }
+}
