@@ -12,11 +12,11 @@ An IoT edge device that listens for MQTT/HTTP triggers and broadcasts voice aler
 ## 📦 Bill of Materials (BOM)
 | Component | Purpose | Quantity | Est. Cost (USD) |
 |---|---|---|---|
-| [ESP32 DevKit V1](https://robocraze.com/products/esp32-development-board) | Main Wi-Fi/MQTT controller | 1 | $6.00 |
-| MAX98357A I2S Audio Amplifier | Drives the speaker from ESP32 I2S pins | 1 | $2.50 |
-| 3W 4Ω Mini Speaker | Audio output | 1 | $1.50 |
-| 18650 Battery + Holder | Portable power supply (optional) | 1 | $3.00 |
-| LM2596 Buck Converter | Steps down 12V to 5V (if using external power) | 1 | $1.20 |
+| [ESP32 DevKit V1](https://robocraze.com/products/esp32-development-board) | Main Wi-Fi/MQTT controller | 1 | ₹450.00 |
+| [MAX98357A I2S Audio Amplifier](https://robocraze.com/products/smartelex-max98357a-i2s-audio-breakout-amplifier-for-raspberry-pi-and-microcontrollers) | Drives the speaker from ESP32 I2S pins | 1 | ₹195.50 |
+| [3W 4Ω Mini Speaker](https://robocraze.com/products/3w-4-ohm-2-inch-full-range-stereo-audio-speaker-woofer) | Audio output | 1 | ₹125.50 |
+| [18650 Battery + Holder](https://robocraze.com/products/18650-1-cell-holder) | Portable power supply (optional) | 1 | ₹16.00 |
+| [LM2596 Buck Converter](https://robocraze.com/products/lm2596-dc-dc-buck-module) | Steps down 12V to 5V (if using external power) | 1 | ₹48.50 |
 
 ## 🔌 Circuit Setup
 | MAX98357A Pin | ESP32 Pin |
